@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application gor Flutter Festival Kisumu.
+
+Big thanks to the [msix](https://pub.dev/packages/msix) and the [webview windows](https://pub.dev/packages/webview_windows) package.
+
 
 A few resources to get you started if this is your first Flutter project:
 
